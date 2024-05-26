@@ -87,9 +87,9 @@
 ---
 ## ⚙️ GitHub Profile Stats 💻
 <p align="center">
-<a href="https://github.com/abdull4haziz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdull4haziz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdull4haziz&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/techabby">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=techabby&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=techabby&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align = "center">
