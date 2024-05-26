@@ -6,7 +6,7 @@
 - :school: I love using Software as a solution for every Problem.
 - :technologist: I’m currently learning Data Science and DEVOPS Engineering.
 - :student: Always learning new things.
-- :boom: You can visit My website here: [In Progress](zaheerh4ck3r.github.io).
+- :boom: You can visit My website here: [In Progress]
 
 <br>
 
